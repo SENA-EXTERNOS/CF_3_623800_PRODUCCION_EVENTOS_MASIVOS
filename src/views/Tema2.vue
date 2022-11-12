@@ -11,9 +11,11 @@
           .col-3.mb-5
             figure
               img(src='@/assets/curso/temas/tema2/img1.png' )
-          .col-lg-8.mb-5.sm-8
-            p.mt-4 Una vez claro el concepto y tipos de protocolos, se entrará a estudiar la etiqueta. Senning (citado por Lanzito, 2017) expresa: “La buena etiqueta se trata de invertir en la calidad del tiempo que pasamos con otras personas. Consiste en preocuparnos por los demás, por su comodidad y su alegría" (párr. 2). En la realización de eventos se conjuga este concepto tan importante con los modales que hacen armónica la interacción con otros, con base en algunas reglas y modos de conducta para lograr una forma cómoda y amable de interacción entre las personas.
-            p La etiqueta no siempre implica reglas protocolarias, en cambio, el protocolo sí incluye reglas de etiqueta en el comportamiento de cada persona, por ello es tan importante definir, de acuerdo con el evento, si existen normas de etiqueta exigibles o no. Por ejemplo, en un almuerzo de negocios debemos aplicar todas las normas de etiqueta que existen cuando estamos sentados a la mesa, y tener en cuenta la forma de manejar la comunicación en ella, lo mismo sucede cuando hablamos de eventos solemnes que exigen una conducta de respeto y seriedad de parte de los asistentes.
+          .col-lg-9.mb-5.sm-8
+            .bloque-texto-b.color-cajon.p-4
+              .bloque-texto-b__texto
+                p.mt-4 Una vez claro el concepto y tipos de protocolos, se entrará a estudiar la etiqueta. Senning (citado por Lanzito, 2017) expresa: #[b “La buena etiqueta se trata de invertir en la calidad del tiempo que pasamos con otras personas. Consiste en preocuparnos por los demás, por su comodidad y su alegría"] (párr. 2). En la realización de eventos se conjuga este concepto tan importante con los modales que hacen armónica la interacción con otros, con base en algunas reglas y modos de conducta para lograr una forma cómoda y amable de interacción entre las personas.
+              p.mt-4 La etiqueta no siempre implica reglas protocolarias, en cambio, el protocolo sí incluye reglas de etiqueta en el comportamiento de cada persona, por ello es tan importante definir, de acuerdo con el evento, si existen normas de etiqueta exigibles o no. Por ejemplo, en un almuerzo de negocios debemos aplicar todas las normas de etiqueta que existen cuando estamos sentados a la mesa, y tener en cuenta la forma de manejar la comunicación en ella, lo mismo sucede cuando hablamos de eventos solemnes que exigen una conducta de respeto y seriedad de parte de los asistentes.
 
           b A continuación, se verán dos tipos de etiqueta, que son las más usadas en la organización de eventos. 
 
@@ -22,6 +24,7 @@
         .row.justify-content-center.align-items-center.my-lg-4
           .col-lg-8
             .number(data-number="01")
+              b Etiqueta en eventos sociales: 
               p Para que podamos diferenciar la etiqueta en eventos sociales debemos tener presente que estos, aunque son tan diversos, tienen como objetivo implícito la interacción entre las personas; por ello para cada ocasión se establecen algunas normas de conducta y de trato entre sus participantes. Estas normas están definidas por la cultura y el estilo de vida: son distintas las normas de etiqueta usadas en la mesa en países del continente americano a las usuales en los países del Medio Oriente, o a aquellas usadas por los pueblos indígenas y ancestrales.
               p La etiqueta y el comportamiento en la mesa es un aspecto fundamental en actos sociales. Abarca desde cómo se pone la mesa hasta los modales durante el evento, e incluyen temas como la medida prudente del consumo de los alimentos que se ofrezcan. Todo lo que tiene que ver con lo social marca normas de etiqueta, por ejemplo, saludar y agradecer en cada evento al cual se asista.
               p Para profundizar en este tema, le invitamos a leer los documentos que se encuentran en la sección de material de apoyo de este componente formativo.
@@ -33,6 +36,7 @@
         .row.justify-content-center.align-items-center.my-lg-4
           .col-lg-7
             .number(data-number="02")
+              b Etiqueta empresarial:  
               p La etiqueta no se refiere exclusivamente a la forma de vestir, sino también a la imagen que impartimos por nuestra manera de actuar, de hablar, de gesticular, del lenguaje que empleamos, etc. Aunque el traje seleccionado debe adecuarse a cada situación, es también muy importante la personalidad, ya que no a todo el mundo le quedan bien las mismas cosas. De igual manera, el que un determinado atuendo nos quede bien, no significa que podamos usarlo para cualquier ocasión.  Se debe tener en cuenta que nuestra presentación personal será vista como una proyección de la imagen de la empresa a la que pertenecemos. Muchas empresas que tienen uniformes exigen normas o reglas de etiqueta en su uso, debido a que estos representan su imagen. También aplican normas de etiqueta en los ascensores y lugares donde se reúnen sus colaboradores. Estas normas se emplean como cortesía en situaciones cotidianas y se aplican tanto dentro de la organización como fuera de ella.
               p Muchas empresas, de acuerdo con sus políticas organizacionales y su búsqueda de pertenencia y pertinencia, tienen manuales de convivencia para regular el comportamiento de los empleados en distintas situaciones, frente a diversas interacciones y propósitos. #[b En la etiqueta empresarial es importante tener en cuenta los siguientes aspectos:]
               p El tratamiento de “tú” y de “usted”; el primero más informal y familiar, usado entre compañeros del mismo rango, y el segundo más formal, para tratar con personas de mayor jerarquía dentro de la organización.
@@ -157,7 +161,7 @@
                       p Etiqueta y protocolo, para complementar el tema
 
                     .col-lg-1
-                      a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexo 1. CF07 Tecnicas de investigación cualitativa.pdf')" target="_blank")
+                      a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexo 2_ Etiqueta y protocolo.pdf')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
 

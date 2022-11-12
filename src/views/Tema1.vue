@@ -24,7 +24,9 @@
           img(src='@/assets/curso/temas/tema1/img1.png', alt='Texto que describa la imagen').imagen-deco
       
       .col-lg-4.mb-5
-        p Entonces, cuando se habla de protocolo se hace referencia a un conjunto de reglas que las personas en una determinada sociedad deben acatar y respetar en situaciones específicas para mantener el orden y manifestar empatía, respeto y amabilidad, en especial en actos oficiales, solemnes o ceremoniales. Ese conjunto de reglas está dado por normas o por la costumbre; lo establecen quienes propician el evento y puede variar dependiendo del objetivo de este, que se ha definido con antelación. 
+        .bloque-texto-b.color-acento-botones.p-4
+          .bloque-texto-b__texto
+            p Entonces, cuando se habla de protocolo se hace referencia a un conjunto de reglas que las personas en una determinada sociedad deben acatar y respetar en situaciones específicas para mantener el orden y manifestar empatía, respeto y amabilidad, en especial en actos oficiales, solemnes o ceremoniales. Ese conjunto de reglas está dado por normas o por la costumbre; lo establecen quienes propician el evento y puede variar dependiendo del objetivo de este, que se ha definido con antelación. 
       
       .col-lg-12
         p Para aplicar la norma es importante definir si la reunión se va a desarrollar en un espacio cerrado o abierto, qué tipo de invitados asistirán, qué programa se va a llevar a cabo y la infraestructura requerida. Una de las normas de protocolo fundamentales en todo tipo de evento es la puntualidad, tanto en el inicio como en el cierre. Las otras normas que exige el evento se dan a conocer cuando se da la bienvenida y se hace la presentación de este.
@@ -63,7 +65,7 @@
                       p Decreto 770 de 1982 
 
                     .col-lg-1
-                      a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexo 1. CF07 Tecnicas de investigación cualitativa.pdf')" target="_blank")
+                      a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexo 1_Decreto_770_de_1982.pdf')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
       
