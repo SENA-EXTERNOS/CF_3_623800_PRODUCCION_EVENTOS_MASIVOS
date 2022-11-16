@@ -61,10 +61,11 @@
             p El montaje de mesa puede ser libre o específico. El montaje libre incluye manteles de colores, con estampados, individuales o sin mantel, con un pequeño detalle en la mesa. La vajilla puede ser de cerámica. En el montaje específico se tiene en cuenta la servilleta, los cubiertos y la cristalería, aunque no es muy riguroso su manejo, como en un acto formal.
             p Los componentes de la comida pueden ser salsas y decoración, proteínas, guarnición de almidón y guarnición de verduras.
             p En el ámbito empresarial, así como hay actos formales, también los hay informales empresariales y su objetivo es que sea un espacio relajado y con buena energía, por ello la decoración es llamativa. Dentro de los actos no formales están:   conferencias, reuniones, seminarios, ferias, exposiciones y juntas de accionistas.
+    
     .row.justify-content-center.mt-5
-      .col-lg-2.mt-3
+      .col-lg-3
             figure
-              img(src='@/assets/curso/temas/tema3/img11.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema3/img11.svg', alt='Texto que describa la imagen').figureim
     
       .col-lg-8
         .cajon.color-acento-contenido.p-4
@@ -76,7 +77,7 @@
       PasosB.color-acento-contenido
         .row.justify-content-center.align-items-center.my-lg-4(titulo="")
           .col-lg-7.md-6.mb-4.mb-md-0
-            b #[i Decidir todo lo relativo al evento o ceremonia:]
+            i Decidir todo lo relativo al evento o ceremonia:
             p.mt-4 Esta función es la más relevante, ya que implica que el anfitrión tome decisiones sobre todas las actividades que se van a realizar, desde su planeación hasta su culminación.
 
           .col-lg-4.md-5.mt-3
@@ -85,7 +86,7 @@
               
         .row.justify-content-center.align-items-center.my-lg-4(titulo="")
           .col-lg-7.md-6.mb-4.mb-md-0
-            b #[i Hacer las invitaciones:]
+            i Hacer las invitaciones:
             p.mt-4 Esto incluye definir el listado de los invitados, el diseño de la invitación, el canal de entrega (físico o digital), y hacerlo con la debida antelación para darle tiempo a los invitados de confirmar su asistencia. 
 
           .col-lg-4.md-5.mt-3
@@ -94,7 +95,7 @@
 
         .row.justify-content-center.align-items-center.my-lg-4(titulo="")
           .col-lg-7.md-6.mb-4.mb-md-0
-            b #[i Recibir a los invitados:]
+            i Recibir a los invitados:
             p.mt-4 Esta es una tarea del anfitrión, pero si el evento es demasiado grande, puede delegar a un grupo de personal capacitado para desarrollar esta labor, sin embargo, es su responsabilidad recibir a los invitados principales o VIP.
 
           .col-lg-4.md-5.mt-3
@@ -103,7 +104,7 @@
 
         .row.justify-content-center.align-items-center.my-lg-4(titulo="")
           .col-lg-7.md-6.mb-4.mb-md-0
-            b #[i Atender:]
+            i Atender:
             p.mt-4 El anfitrión es el encargado de asegurar que todos los invitados se sientan cómodos, satisfechos y con una buena atención.
 
           .col-lg-4.md-5.mt-3
@@ -112,7 +113,7 @@
 
         .row.justify-content-center.align-items-center.my-lg-4(titulo="")
           .col-lg-7.md-6.mb-4.mb-md-0
-            b #[i Despedir:]
+            i Despedir:
             p.mt-4 Así como dio la bienvenida, el anfitrión es el encargado de despedir a los invitados agradeciendo su asistencia y participación.
             
           .col-lg-4.md-5.mt-3
@@ -129,7 +130,7 @@
         ul.mt-4.lista-ul--
           li 
             i.fas.fa-angle-right
-            | El saludo puede ser apretón de manos, besos, reverencias o abrazos, todo depende del invitado y la relación con él. En el ámbito empresarial se debe saber cuál es el saludo más adecuado y cómo debe llevarse a cabo, según la persona a la que se saluda.
+            |   El saludo puede ser apretón de manos, besos, reverencias o abrazos, todo depende del invitado y la relación con él. En el ámbito empresarial se debe saber cuál es el saludo más adecuado y cómo debe llevarse a cabo, según la persona a la que se saluda.
           
           li.mt-3 
             i.fas.fa-angle-right

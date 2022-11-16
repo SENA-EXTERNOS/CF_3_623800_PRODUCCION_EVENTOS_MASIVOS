@@ -4,8 +4,11 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 
+        span
+          i.fas.fa-puzzle-piece
       h1 Actividad didáctica
+
+
     .titulo-segundo.color-acento-contenido
       h2 Falso / Verdadero
     

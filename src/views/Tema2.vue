@@ -8,16 +8,18 @@
       h1 Reglas de etiqueta
 
     .row.justify-content-center.align-items-center
-          .col-3.mb-5
-            figure
-              img(src='@/assets/curso/temas/tema2/img1.png' )
-          .col-lg-9.mb-5.sm-8
-            .bloque-texto-b.color-cajon.p-4
-              .bloque-texto-b__texto
-                p.mt-4 Una vez claro el concepto y tipos de protocolos, se entrará a estudiar la etiqueta. Senning (citado por Lanzito, 2017) expresa: #[b “La buena etiqueta se trata de invertir en la calidad del tiempo que pasamos con otras personas. Consiste en preocuparnos por los demás, por su comodidad y su alegría"] (párr. 2). En la realización de eventos se conjuga este concepto tan importante con los modales que hacen armónica la interacción con otros, con base en algunas reglas y modos de conducta para lograr una forma cómoda y amable de interacción entre las personas.
-              p.mt-4 La etiqueta no siempre implica reglas protocolarias, en cambio, el protocolo sí incluye reglas de etiqueta en el comportamiento de cada persona, por ello es tan importante definir, de acuerdo con el evento, si existen normas de etiqueta exigibles o no. Por ejemplo, en un almuerzo de negocios debemos aplicar todas las normas de etiqueta que existen cuando estamos sentados a la mesa, y tener en cuenta la forma de manejar la comunicación en ella, lo mismo sucede cuando hablamos de eventos solemnes que exigen una conducta de respeto y seriedad de parte de los asistentes.
+      .col-3.mb-5
+        figure
+          img(src='@/assets/curso/temas/tema2/img1.png' )
+      .col-lg-9.mb-5.sm-8
+        .bloque-texto-b.color-cajon.p-4
+          .bloque-texto-b__texto
+            p.mt-4 Una vez claro el concepto y tipos de protocolos, se entrará a estudiar la etiqueta. Senning (citado por Lanzito, 2017) expresa: #[b “La buena etiqueta se trata de invertir en la calidad del tiempo que pasamos con otras personas. Consiste en preocuparnos por los demás, por su comodidad y su alegría"] (párr. 2). En la realización de eventos se conjuga este concepto tan importante con los modales que hacen armónica la interacción con otros, con base en algunas reglas y modos de conducta para lograr una forma cómoda y amable de interacción entre las personas.
+          
+        .col-lg-12.mb-5.sm-8
+          p.mt-4 La etiqueta no siempre implica reglas protocolarias, en cambio, el protocolo sí incluye reglas de etiqueta en el comportamiento de cada persona, por ello es tan importante definir, de acuerdo con el evento, si existen normas de etiqueta exigibles o no. Por ejemplo, en un almuerzo de negocios debemos aplicar todas las normas de etiqueta que existen cuando estamos sentados a la mesa, y tener en cuenta la forma de manejar la comunicación en ella, lo mismo sucede cuando hablamos de eventos solemnes que exigen una conducta de respeto y seriedad de parte de los asistentes.
 
-          b A continuación, se verán dos tipos de etiqueta, que son las más usadas en la organización de eventos. 
+      b A continuación, se verán dos tipos de etiqueta, que son las más usadas en la organización de eventos. 
 
     .row.mt-5.justify-content-center.imgslider
       SlyderA(tipo="b")
@@ -47,9 +49,9 @@
               img(src='@/assets/curso/temas/tema2/img3.png')
 
     .row.justify-content-center.mt-5
-      .col-lg-8.sm-8
+      .col-lg-9.sm-8
         .cajon.color-acento-contenido.p-4
-          p El siguiente video amplía el tema, aborda algunos principios de la etiqueta empresarial y los tipos de eventos más comunes en donde se aplican.
+          b El siguiente video amplía el tema, aborda algunos principios de la etiqueta empresarial y los tipos de eventos más comunes en donde se aplican.
     
       .video.mt-5
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -94,10 +96,10 @@
             .col-lg-11
               p Zapatos y cinturón acordes con la ropa. Los zapatos deben estar limpios.
 
-    .row.justify-content-center.align-items-center
-      .col-lg-8
-        .cajon.color-acento-contenido.p-4
-          b En cuanto a la mujer, las normas son similares:
+    .row.justify-content-center
+      .col-lg-7
+        .cajon.color-acento-contenido.p-3
+          p.text-center #[b En cuanto a la mujer, las normas son similares:]
 
       b.mt-5 La etiqueta en la vestimenta de la mujer debe tener en cuenta:
 
@@ -142,7 +144,7 @@
               .anexo__icono
                 img(src="@/assets/curso/temas/tema2/img10.svg")
               .anexo__texto
-                b Enlace web. #[p Normas de etiqueta y protocolo’ (SENA, 2021)]
+                p.text-small #[b Enlace web.] Normas de etiqueta y protocolo’ (SENA, 2021)
 
       .col-lg-4
         figure

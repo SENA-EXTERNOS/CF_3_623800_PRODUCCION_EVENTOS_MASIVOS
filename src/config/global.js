@@ -125,7 +125,7 @@ export default {
       referencia:
         'Fernández, M. (s. f.). <em>Memorias, protocolo y organización de eventos</em>. Universidad Católica Luis Amigó-Funlam.',
       tipo: 'Documento',
-      descarga:
+      link:
         'https://www.funlam.edu.co/uploads/facultadcomunicacion/244_MEMORIAS_PROTOCOLO_Y_ORGANIZACION_DE_EVENTOS01.pdf',
     },
     {
@@ -133,7 +133,7 @@ export default {
       referencia:
         'Área Metropolitana Valle de Aburra (s. f.).<em>Manual de eventos y protocolo</em>. Metropol.',
       tipo: 'Documento',
-      descarga:
+      link:
         'https://www.metropol.gov.co/area/Documents/transparencia/3.%20Manual%20de%20Eventos%20y%20Protocolo.pdf',
     },
     {
@@ -141,7 +141,7 @@ export default {
       referencia:
         'Estrada, S. (2011).<em> Manual de protocolo para la realización de eventos institucionales en la Corporación Universitaria Lasallista </em>[tesis pregrado]. Corporación Universitaria Lasallista. Repositorio Lasallista.',
       tipo: 'Tesis de pregrado',
-      descarga:
+      link:
         'http://repository.unilasallista.edu.co/dspace/bitstream/10567/273/1/Manual_Protocolo_Eventos_CUL.pdf',
     },
     {
@@ -149,7 +149,7 @@ export default {
       referencia:
         'Barrientos, J. (2016). <em> Manual de protocolo para la realización de eventos académicos en Contáctica Comunicaciones </em> [tesis de pregrado]. Corporación Universitaria Lasallista. Repositorio Lasallista.',
       tipo: 'Tesis',
-      descarga:
+      link:
         'http://repository.unilasallista.edu.co/dspace/bitstream/10567/1794/1/Manual_protocolo_eventos_academicos_Contactica.pdf',
     },
     {
@@ -157,7 +157,7 @@ export default {
       referencia:
         'Colombia, Ministerio de Relaciones Exteriores (s. f.). <em>Manual del protocolo</em>. Ministerio de Relaciones Exteriores.',
       tipo: 'Documento',
-      descarga:
+      link:
         'https://www.cancilleria.gov.co/sites/default/files/FOTOS2020/DP-MA-002%20MANUAL%20DE%20PROTOCOLO%20V5.pdf',
     },
     {
@@ -165,21 +165,21 @@ export default {
       referencia:
         'Servicio Nacional de Aprendizaje [SENA] (2021). “Definición de protocolo” [video]. Ecosistema de Recursos Educativos Digitales SENA. ',
       tipo: 'Video',
-      descarga: 'https://www.youtube.com/watch?v=sBDvcLGFD3Y',
+      link: 'https://www.youtube.com/watch?v=sBDvcLGFD3Y',
     },
     {
       tema: 'Protocolo',
       referencia:
         'Servicio Nacional de Aprendizaje [SENA] (2021). “Tipos de protocolo” [video]. Ecosistemas de Recursos Educativos Digitales SENA. ',
       tipo: 'Video',
-      descarga: 'https://www.youtube.com/watch?v=MivhiyU2jTM',
+      link: 'https://www.youtube.com/watch?v=MivhiyU2jTM',
     },
     {
       tema: 'Protocolo y Ceremonial',
       referencia:
         'Colombia, Presidencia de la República (1982, 12 de marzo). <em> Decreto 770 de 1982 “por el cual se expide el Reglamento de Protocolo y Ceremonial de la Presidencia de la República”</em>. D. O. 36005.',
       tipo: 'Decreto',
-      descarga:
+      link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=40050',
     },
     {
@@ -187,14 +187,14 @@ export default {
       referencia:
         'Servicio Nacional de Aprendizaje [SENA] Formación en Ambientes Virtuales de Aprendizaje [FAVA]. (s. f.). <em>Etiqueta y protocolo</em>. SENA.',
       tipo: 'Documento',
-      descarga: 'Archivo en PDF.',
+      link: '/downloads/Anexo 2_ Etiqueta y protocolo.pdf',
     },
     {
       tema: 'Etiqueta y protocolo',
       referencia:
         'Servicio Nacional de Aprendizaje [SENA] (2021). “Normas de etiqueta y protocolo” [video]. Ecosistema de Recursos Educativos Digitales SENA.',
       tipo: 'Video',
-      descarga: 'https://www.youtube.com/watch?v=a-BgD2Cb0po',
+      link: 'https://www.youtube.com/watch?v=a-BgD2Cb0po',
     },
   ],
   glosario: [
@@ -257,84 +257,90 @@ export default {
   ],
   referencias: [
     {
-      referencia: 'Libro',
-      link:
-        'Borges, A. (2013). La innovación en la organización de eventos. <em> Compe. Revista Científica de Comunicación, Protocolo y Eventos </em> (1), pp. 46-60.',
+      referencia:
+        'Libro Borges, A. (2013). La innovación en la organización de eventos. <em> Compe. Revista Científica de Comunicación, Protocolo y Eventos </em> (1), pp. 46-60.',
+      link: '',
     },
     {
-      referencia: 'Página web',
-      link:
-        'Coll, M. (2020, 13 de noviembre). <em> Tipos de protocolo.</em> Economipedia.com. https://economipedia.com/definiciones/tipos-de-protocolo.html. ',
+      referencia:
+        'Página web Coll, M. (2020, 13 de noviembre). <em> Tipos de protocolo.</em> Economipedia.com.',
+      link: 'https://economipedia.com/definiciones/tipos-de-protocolo.html. ',
     },
     {
-      referencia: 'Página web',
+      referencia:
+        'Página web Ecodiario.es (2020, agosto 17). <em> Reglas de etiqueta del día a día que todos hemos roto al menos una vez.</em> ElEconomista.es.',
       link:
-        'Ecodiario.es (2020, agosto 17). <em> Reglas de etiqueta del día a día que todos hemos roto al menos una vez.</em> ElEconomista.es. https://ecodiario.eleconomista.es/viralplus/noticias/10724631/08/20/Reglas-de-etiqueta-del-dia-a-dia-que-todos-hemos-roto-al-menos-una-vez.html.',
+        'https://ecodiario.eleconomista.es/viralplus/noticias/10724631/08/20/Reglas-de-etiqueta-del-dia-a-dia-que-todos-hemos-roto-al-menos-una-vez.html.',
     },
     {
-      referencia: 'Página web',
-      link:
-        'Eserp Business & Law School (s. f.). <em> Qué es el protocolo empresarial.</em> Eserp Business & Law School. https://es.eserp.com/articulos/protocolo-empresarial/.',
+      referencia:
+        'Página web Eserp Business & Law School (s. f.). <em> Qué es el protocolo empresarial.</em> Eserp Business & Law School.',
+      link: 'https://es.eserp.com/articulos/protocolo-empresarial/.',
     },
     {
-      referencia: 'Página web',
-      link:
-        'Esneca Business School (2020, 6 de noviembre). <em> Los tipos de protocolos que debes conocer.</em> Esneca.com. https://www.esneca.com/blog/tipos-de-protocolo/.',
+      referencia:
+        'Página web Esneca Business School (2020, 6 de noviembre). <em> Los tipos de protocolos que debes conocer.</em> Esneca.com.',
+      link: 'https://www.esneca.com/blog/tipos-de-protocolo/.',
     },
     {
-      referencia: 'Página web',
-      link:
-        'Euroinnova International Online Education (s. f.). <em> Qué es un protocolo militar.</em> https://www.euroinnova.edu.es/que-es-un-protocolo-militar.',
+      referencia:
+        'Página web Euroinnova International Online Education (s. f.). <em> Qué es un protocolo militar.</em>',
+      link: 'https://www.euroinnova.edu.es/que-es-un-protocolo-militar.',
     },
     {
-      referencia: 'Página web',
-      link:
-        'Lanzito, C. (s. f.). <em> Las reglas de etiqueta más importantes. AARP. </em> https://bit.ly/3ExJSAI.',
+      referencia:
+        'Página web Lanzito, C. (s. f.). <em> Las reglas de etiqueta más importantes. AARP. </em> ',
+      link: 'https://bit.ly/3ExJSAI.',
     },
     {
-      referencia: 'Página web',
-      link:
-        'IOE Business School (2018, 7 de noviembre). <em> Conoce los tipos de protocolo.</em> Grupo IOE. https://www.grupoioe.es/conoce-los-tipos-de-protocolo/.',
+      referencia:
+        'Página web IOE Business School (2018, 7 de noviembre). <em> Conoce los tipos de protocolo.</em> Grupo IOE. ',
+      link: 'https://www.grupoioe.es/conoce-los-tipos-de-protocolo/.',
     },
     {
-      referencia: 'Libro electrónico',
-      link:
-        'Jiménez, M., y Panizo, J. (2017). Eventos y protocolo: la gestión estratégica de actos corporativos e institucionales. Universitat Oberta de Catalunya. Digitalia. https://www-digitaliapublishing-com.bdigital.sena.edu.co/a/47383',
+      referencia:
+        'Libro electrónico Jiménez, M., y Panizo, J. (2017). Eventos y protocolo: la gestión estratégica de actos corporativos e institucionales. Universitat Oberta de Catalunya. Digitalia.',
+      link: 'https://www-digitaliapublishing-com.bdigital.sena.edu.co/a/47383',
     },
     {
-      referencia: 'Página web',
+      referencia:
+        'Página web Materia Efímera (2020). <em> El protocolo aplicado a eventos.</em> Materia Efímera.  ',
       link:
-        'Materia Efímera (2020). <em> El protocolo aplicado a eventos.</em> Materia Efímera.  https://materiaefimera.com/sin-categorizar-2/protocolo-en-los-eventos/2020/.',
+        'https://materiaefimera.com/sin-categorizar-2/protocolo-en-los-eventos/2020/.',
     },
     {
-      referencia: 'Libro electrónico',
+      referencia:
+        'Libro electrónico Montedeoca, R. (2013). <em> Organización de reuniones y eventos.</em> IC Editorial. ',
       link:
-        'Montedeoca, R. (2013). <em> Organización de reuniones y eventos.</em> IC Editorial. https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/44531?page=196',
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/44531?page=196',
     },
     {
-      referencia: 'Página web',
-      link:
-        'Nanduca, A. (2021, 20 de junio). <em> Evento formal e informal.</em> Prezi. https://prezi.com/p/sahonilir-1l/eventos-formales-e-informales/.',
+      referencia:
+        'Página web Nanduca, A. (2021, 20 de junio). <em> Evento formal e informal.</em> Prezi.',
+      link: 'https://prezi.com/p/sahonilir-1l/eventos-formales-e-informales/.',
     },
     {
-      referencia: 'Libro electrónico',
+      referencia:
+        'Libro electrónico Otero, M. (2009). <em> Protocolo y organización de eventos.</em> Editorial UOC. ',
       link:
-        'Otero, M. (2009). <em> Protocolo y organización de eventos.</em> Editorial UOC. https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/56460',
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/56460',
     },
     {
-      referencia: 'Libro electrónico',
+      referencia:
+        'Libro electrónico Patiño, L. (2012). <em>Etiqueta y protocolo: base de la imagen empresarial.</em> Eumed. ',
       link:
-        'Patiño, L. (2012). <em>Etiqueta y protocolo: base de la imagen empresarial.</em> Eumed. https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/25122',
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/25122',
     },
     {
-      referencia: 'Página web',
+      referencia:
+        'Página web Vargas, U. (s. f.). <em>Tipos de eventos empresariales que puedes organizar.</em> Aprende Institute.',
       link:
-        'Vargas, U. (s. f.). <em>Tipos de eventos empresariales que puedes organizar.</em> Aprende Institute. https://aprende.com/blog/emprendimiento/eventos/tipos-de-eventos-empresariales-que-puedes-organizar/.',
+        'https://aprende.com/blog/emprendimiento/eventos/tipos-de-eventos-empresariales-que-puedes-organizar/.',
     },
     {
-      referencia: 'Libro',
-      link:
-        'Villanueva, R. (2012). <em>Gestión de protocolo.</em> IC Editorial. ',
+      referencia:
+        'Libro Villanueva, R. (2012). <em>Gestión de protocolo.</em> IC Editorial. ',
+      link: '',
     },
   ],
   creditos: {

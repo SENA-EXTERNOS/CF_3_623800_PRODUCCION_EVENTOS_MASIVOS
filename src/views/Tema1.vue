@@ -14,10 +14,11 @@
 
         .col-lg-12
           a.anexo.mb-4(href="https://www.youtube.com/watch?v=sBDvcLGFD3Y" target="_blank")
-              .anexo__icono
-                img(src="@/assets/curso/temas/tema1/img10.svg")
-              .anexo__texto
-                b Enlace web. #[p ‘Definición de protocolo’ (SENA, 2021)]
+            .anexo__texto
+              p.text-small #[b Enlace web.]
+                | ‘Definición de protocolo’ (SENA, 2021)
+            .anexo__icono
+              img(src="@/assets/curso/temas/tema1/img10.svg")
       
       .col-lg-4
         figure
@@ -36,7 +37,8 @@
               .anexo__icono
                 img(src="@/assets/curso/temas/tema1/img10.svg")
               .anexo__texto
-                b Enlace web. #[p ‘Tipos de protocolo’ (SENA, 2021)]
+                p.text-small #[b Enlace web.]
+                  | ‘Tipos de protocolo’ (SENA, 2021)
 
     .row.mt-5
       b Dentro de los tipos de protocolo se encuentran los siguientes:
