@@ -118,7 +118,7 @@ export default {
       referencia:
         'Organización de Estados Americanos [OEA], Departamento de Gestión de Conferencias (2017). <em> Manual operativo para la organización de reuniones y conferencias fuera de la sede</em>. OEA',
       tipo: 'Documento',
-      descarga: 'http://www.scm.oas.org/Manual/ManualOperativo.pdf',
+      link: 'http://www.scm.oas.org/Manual/ManualOperativo.pdf',
     },
     {
       tema: 'Protocolo',
@@ -187,7 +187,7 @@ export default {
       referencia:
         'Servicio Nacional de Aprendizaje [SENA] Formación en Ambientes Virtuales de Aprendizaje [FAVA]. (s. f.). <em>Etiqueta y protocolo</em>. SENA.',
       tipo: 'Documento',
-      link: '/downloads/Anexo 2_ Etiqueta y protocolo.pdf',
+      descarga: '/downloads/Anexo 2_ Etiqueta y protocolo.pdf',
     },
     {
       tema: 'Etiqueta y protocolo',

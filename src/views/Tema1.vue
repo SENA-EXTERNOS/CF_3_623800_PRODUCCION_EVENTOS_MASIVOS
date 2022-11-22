@@ -30,7 +30,7 @@
             p Entonces, cuando se habla de protocolo se hace referencia a un conjunto de reglas que las personas en una determinada sociedad deben acatar y respetar en situaciones específicas para mantener el orden y manifestar empatía, respeto y amabilidad, en especial en actos oficiales, solemnes o ceremoniales. Ese conjunto de reglas está dado por normas o por la costumbre; lo establecen quienes propician el evento y puede variar dependiendo del objetivo de este, que se ha definido con antelación. 
       
       .col-lg-12
-        p Para aplicar la norma es importante definir si la reunión se va a desarrollar en un espacio cerrado o abierto, qué tipo de invitados asistirán, qué programa se va a llevar a cabo y la infraestructura requerida. Una de las normas de protocolo fundamentales en todo tipo de evento es la puntualidad, tanto en el inicio como en el cierre. Las otras normas que exige el evento se dan a conocer cuando se da la bienvenida y se hace la presentación de este.
+        p Para aplicar la norma es importante definir si la reunión se va a desarrollar en un espacio cerrado o abierto, qué tipo de invitados asistirán, qué programa se va a llevar a cabo y la infraestructura requerida. Una de las normas de protocolo fundamentales en todo tipo de evento es la puntualidad, tanto en el inicio como en el cierre. Las otras normas que exige el evento se dan a conocer cuando se da la bienvenida y se hace la presentación de este. A continuación, pueden verse algunos de ellos: 
       
       .col-lg-9
           a.anexo.mb-4(href="https://www.youtube.com/watch?v=MivhiyU2jTM" target="_blank")
@@ -125,7 +125,7 @@
         .row
           .col-xl-5.mb-4
             figure
-            img(src='@/assets/curso/temas/tema1/img4.png')
+            img(src='@/assets/curso/temas/tema1/img7.png')
 
           .col-xl-7
             p Reglas de cortesía u organización aplicadas en actos donde tienen lugar relaciones sociales, las cuales exigen cierta formalidad. Estas reglas han cambiado a raíz de la pandemia de COVID-19 que vivió el planeta, y las consideraciones de cada organizador y evento; sin embargo, es muy importante que se conozcan las normas que se tienen dentro de un evento social, para tener éxito en él. 
@@ -137,7 +137,7 @@
         .row
           .col-xl-5.mb-4
             figure
-            img(src='@/assets/curso/temas/tema1/img4.png')
+            img(src='@/assets/curso/temas/tema1/img8.png')
 
           .col-xl-7
             p Los eventos empresariales son variados y por ello pueden tener diferentes objetivos y formatos. Sin embargo, y a pesar de las diferencias, todos tienen una característica común: necesitan un protocolo, el cual será marcado por el tipo de evento. 
@@ -154,7 +154,7 @@
         .row
           .col-xl-5.mb-4
             figure
-            img(src='@/assets/curso/temas/tema1/img4.png')
+            img(src='@/assets/curso/temas/tema1/img9.png')
 
           .col-xl-7
             p Los eventos de enseñanza-aprendizaje siempre deben tener un protocolo regido por un programa, el cual se debe cumplir puntualmente y a cabalidad. Ejemplos de estos son las conferencias, seminarios, paneles, cursos, foros, simposios, coloquios, encuentros y charlas, entre otros.

@@ -3,15 +3,9 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    .row.justify-content-center
-          .col-lg-8.sm-8
-            .titulo-sexto.color-acento-contenido
-              b Producción de eventos masivos
-              p Síntesis: Protocolo en los eventos
+    
 
-          .col-lg-2
-            figure
-            img(src="@/assets/curso/temas/g4.svg" width='89,61' height='86,7')
+          
           
     .row.justify-content-center
           .col-lg-10.sm-8.mt-5       
@@ -21,7 +15,7 @@
         figure
           img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
       .col-auto
-        a.anexo.mb-4(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/Sintesis_CF 03_PRODUCCIÓN DE EVENTOS MASIVOS.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto

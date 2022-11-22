@@ -71,6 +71,8 @@
         .cajon.color-acento-contenido.p-4
           p #[b En todas las ceremonias siempre hay un anfitrión] que puede estar representado por un país, una organización o una persona. El anfitrión es el encargado y responsable de planear el evento, organizarlo y velar por la armonía y bienestar de todos los participantes; además es quien ‘da la cara’ antes, durante y después de la celebración. Esto exige la aplicación correcta de las normas de protocolo y etiqueta. 
       
+    .col-lg-12
+      p.mt-5 Este anfitrión tiene unas funciones que pueden verse a continuación y que se abordarán una por una:
 
 
     .tarjeta.p-4.imgslider.mt-5
