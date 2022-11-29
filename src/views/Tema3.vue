@@ -131,15 +131,15 @@
 
         ul.mt-4.lista-ul--
           li 
-            i.fas.fa-angle-right
+            i.fas.fa-angle-right.color
             |   El saludo puede ser apretón de manos, besos, reverencias o abrazos, todo depende del invitado y la relación con él. En el ámbito empresarial se debe saber cuál es el saludo más adecuado y cómo debe llevarse a cabo, según la persona a la que se saluda.
           
           li.mt-3 
-            i.fas.fa-angle-right
+            i.fas.fa-angle-right.color
             |   Obligaciones con los visitantes. El trato con los invitados debe ser cordial y amable.
 
           li.mt-3
-          i.fas.fa-angle-right
+          i.fas.fa-angle-right.color
           |   La precedencia, son los privilegios que se le otorgan a los invitados.
 
       .col-lg-11.mt-3

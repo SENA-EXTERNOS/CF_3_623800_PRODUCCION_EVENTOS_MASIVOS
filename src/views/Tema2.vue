@@ -76,23 +76,23 @@
             figure
               img(src='@/assets/curso/temas/tema2/img8.png', alt='Texto que describa la imagen')
 
-          .tarjeta.color-acento-botones.p-4(x="56%" y="17%" numero="1")
+          .tarjeta.color-acento-contenido.p-4(x="56%" y="17%" numero="1")
             .col-lg-11
               p Higiene personal, que involucra cabello, barba o bigote, manos, uñas, dientes y buen olor.
 
-          .tarjeta.color-acento-botones.p-4(x="40%" y="24%" numero="2")
+          .tarjeta.color-acento-contenido.p-4(x="40%" y="24%" numero="2")
             .col-lg-10
               p El color del traje debe ser preferiblemente oscuro y de estilo clásico.
 
-          .tarjeta.color-acento-botones.p-4(x="60%" y="36%" numero="3")
+          .tarjeta.color-acento-contenido.p-4(x="60%" y="36%" numero="3")
             .col-lg-10 
               p Camisa bien presentada, de manga larga y colores básicos, preferiblemente sin estampados, solo con algunas líneas finas.
 
-          .tarjeta.color-acento-botones.p-4(x="42%" y="40%" numero="4")
+          .tarjeta.color-acento-contenido.p-4(x="42%" y="40%" numero="4")
             .col-lg-10 
               p La corbata debe estar en armonía con el vestido.
 
-          .tarjeta.color-acento-botones.p-4(x="43%" y="85%" numero="5")
+          .tarjeta.color-acento-contenido.p-4(x="43%" y="85%" numero="5")
             .col-lg-11
               p Zapatos y cinturón acordes con la ropa. Los zapatos deben estar limpios.
 
@@ -110,27 +110,27 @@
             figure
               img(src='@/assets/curso/temas/tema2/img9.png', alt='Texto que describa la imagen')
 
-          .tarjeta.color-acento-botones.p-4(x="40%" y="7%" numero="1")
+          .tarjeta.color-acento-contenido.p-4(x="40%" y="7%" numero="1")
             .col-lg-11
               p Higiene personal, cabello limpio. Se recomienda que el pelo largo esté recogido.
 
-          .tarjeta.color-acento-botones.p-4(x="60%" y="14%" numero="2")
+          .tarjeta.color-acento-contenido.p-4(x="60%" y="14%" numero="2")
             .col-lg-10
               p Se recomienda uso de maquillaje muy discreto.
 
-          .tarjeta.color-acento-botones.p-4(x="64%" y="31%" numero="3")
+          .tarjeta.color-acento-contenido.p-4(x="64%" y="31%" numero="3")
             .col-lg-10 
               p Las manos deben tener una buena manicura y evitar colores muy llamativos en las uñas.
 
-          .tarjeta.color-acento-botones.p-4(x="43%" y="42%" numero="4")
+          .tarjeta.color-acento-contenido.p-4(x="43%" y="42%" numero="4")
             .col-lg-10 
               p El traje, preferiblemente clásico, puede ser pantalón o falda no muy ajustada, con chaqueta.
 
-          .tarjeta.color-acento-botones.p-4(x="60%" y="61%" numero="5")
+          .tarjeta.color-acento-contenido.p-4(x="60%" y="61%" numero="5")
             .col-lg-11
               p El color del vestuario no debe ser intenso.
 
-          .tarjeta.color-acento-botones.p-4(x="41%" y="93%" numero="6")
+          .tarjeta.color-acento-contenido.p-4(x="41%" y="93%" numero="6")
             .col-lg-11
               p El bolso y los zapatos deben ser acordes con el traje.
 
@@ -163,7 +163,7 @@
                       p Etiqueta y protocolo, para complementar el tema
 
                     .col-lg-1
-                      a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexo 2_ Etiqueta y protocolo.pdf')" target="_blank")
+                      a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/Anexo 2_ Etiqueta y protocolo.pdf')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
 

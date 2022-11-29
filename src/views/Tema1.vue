@@ -67,7 +67,7 @@
                       p Decreto 770 de 1982 
 
                     .col-lg-1
-                      a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexo 1_Decreto_770_de_1982.pdf')" target="_blank")
+                      a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/Anexo 1_Decreto_770_de_1982.pdf')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
       
