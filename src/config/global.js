@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Protocolo en los eventos',
     descripcionCurso:
       'Para que todos los eventos tengan éxito, es necesario aplicar y hacer seguimiento al protocolo y cumplir ciertas reglas de etiqueta establecidas. Tanto el protocolo como la etiqueta dependen del tipo de actividad, puesto que no todos los eventos siguen las mismas normas, ya que no tienen las mismas características. ',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
       {
