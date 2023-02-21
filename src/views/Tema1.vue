@@ -54,22 +54,22 @@
             p Es un conjunto de reglas que se aplican durante los eventos o ceremonias de organismos estatales (presidencia, congreso, ministerios, alcaldías o unidades territoriales). En Colombia, estas normas protocolarias están publicadas en el #[i Manual de protocolo. Dirección general del protocolo y ceremonial del Estado], el cual no solo determina el protocolo para eventos relacionados con la Presidencia de la República, sino también el del Ministerio de Relaciones Exteriores. 
             p Para ampliar la información puede consultar el Anexo 1 - Decreto 770 de 1982, que contempla el reglamento de protocolo ceremonial de la Presidencia de la República de Colombia.
 
-    .row.justify-content-center.align-items-center.mb-5     
-      .col-lg-10
-        .tarjeta.color-primario.p-3.mb-5
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/tema1/img11.svg")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  h3.mb-1 Anexo 1
-                  p.mb-0 Decreto 770 de 1982 
+          .row.justify-content-center.align-items-center.mt-5     
+            .col-lg-10
+              .tarjeta.color-primario.p-3.mb-5
+                .row.justify-content-around.align-items-center
+                  .col-3.col-sm-2.col-lg-1
+                    img(src="@/assets/curso/temas/tema1/img11.svg")
+                  .col
+                    .row.justify-content-between.align-items-center
+                      .col.mb-3.mb-sm-0
+                        h3.mb-1 Anexo 1
+                        p.mb-0 Decreto 770 de 1982 
 
-                .col-sm-auto
-                  a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/Anexo_1_Decreto_770_de_1982.pdf')" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download                        
+                      .col-sm-auto
+                        a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/Anexo_1_Decreto_770_de_1982.pdf')" target="_blank")
+                          span Descargar
+                          i.fas.fa-file-download                        
       
       .tarjeta.imgpestanas.p-4(titulo="Diplomático")
         .row
