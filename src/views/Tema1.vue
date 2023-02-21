@@ -10,7 +10,7 @@
     
     .row.mt-5.justify-content-center
       .col-lg-4.mb-5
-        p Todos en algún momento de nuestra vida hemos oído hablar sobre la ‘etiqueta y el protocolo’, y muchas veces la mención de estos viene acompañada de la sensación de tedio o aburrimiento. Pero ¿por qué debemos conocer sobre ello? Para empezar, hay que establecer primero qué es el protocolo. Para ello se incluye a continuación el video 
+        p Todos en algún momento de nuestra vida hemos oído hablar sobre “la etiqueta y el protocolo”, y muchas veces la mención de estos viene acompañada de la sensación de tedio o aburrimiento, pero ¿por qué debemos conocer sobre ello? Para empezar, hay que establecer primero qué es el protocolo. Para tener una noción sobre este concepto, observe el video que se presenta a continuación.
 
         .col-lg-12
           a.anexo.mb-4(href="https://www.youtube.com/watch?v=sBDvcLGFD3Y" target="_blank")
@@ -27,10 +27,10 @@
       .col-lg-4.mb-5
         .bloque-texto-b.color-acento-botones.p-4
           .bloque-texto-b__texto
-            p Entonces, cuando se habla de protocolo se hace referencia a un conjunto de reglas que las personas en una determinada sociedad deben acatar y respetar en situaciones específicas para mantener el orden y manifestar empatía, respeto y amabilidad, en especial en actos oficiales, solemnes o ceremoniales. Ese conjunto de reglas está dado por normas o por la costumbre; lo establecen quienes propician el evento y puede variar dependiendo del objetivo de este, que se ha definido con antelación. 
+            p Entonces, cuando se habla de protocolo, se hace referencia a un conjunto de reglas que las personas, en una determinada sociedad, deben acatar y respetar, en situaciones específicas para mantener el orden y manifestar empatía, respeto y amabilidad, en especial, en actos oficiales, solemnes o ceremoniales. Ese conjunto de reglas está dado por normas o por la costumbre; lo establecen quienes propician el evento y puede variar dependiendo del objetivo de este, el cual se ha definido con antelación. 
       
       .col-lg-12
-        p Para aplicar la norma es importante definir si la reunión se va a desarrollar en un espacio cerrado o abierto, qué tipo de invitados asistirán, qué programa se va a llevar a cabo y la infraestructura requerida. Una de las normas de protocolo fundamentales en todo tipo de evento es la puntualidad, tanto en el inicio como en el cierre. Las otras normas que exige el evento se dan a conocer cuando se da la bienvenida y se hace la presentación de este. A continuación, pueden verse algunos de ellos: 
+        p Para aplicar estas normas es importante definir si la reunión se va a desarrollar en un <b>espacio</b> cerrado o abierto, qué tipo de invitados asistirán, qué <b>programa</b> se va a llevar a cabo y la infraestructura requerida. Una de las normas de protocolo fundamentales en todo tipo de evento es la <b>puntualidad</b>, tanto en el inicio como en el cierre. Las demás normas que exige el evento se comunican cuando se da la bienvenida y se hace la presentación de este. En el video a continuación puede ver algunos de los protocolos que existen, de acuerdo al tipo de evento y entorno en el que se desarrollará, más adelante se retomarán con mayor detalle.
       
       .col-lg-9
           a.anexo.mb-4(href="https://www.youtube.com/watch?v=MivhiyU2jTM" target="_blank")
@@ -54,22 +54,22 @@
             p Es un conjunto de reglas que se aplican durante los eventos o ceremonias de organismos estatales (presidencia, congreso, ministerios, alcaldías o unidades territoriales). En Colombia, estas normas protocolarias están publicadas en el #[i Manual de protocolo. Dirección general del protocolo y ceremonial del Estado], el cual no solo determina el protocolo para eventos relacionados con la Presidencia de la República, sino también el del Ministerio de Relaciones Exteriores. 
             p Para ampliar la información puede consultar el Anexo 1 - Decreto 770 de 1982, que contempla el reglamento de protocolo ceremonial de la Presidencia de la República de Colombia.
 
-        .row.justify-content-around.align-items-centerrd.mt-5
-          .col-11
-            .tarjeta.color-primario.mt-2.p-3
-              .row
-                .col-lg-3
-                  img(src='@/assets/curso/temas/tema1/img11.svg' width='200px' height='100px')
-                .col-5
-                  .row.justify-content-around.mt-3
-                    .col.mb-4.mb-sm-0
-                      h4 Anexo 1
-                      p Decreto 770 de 1982 
+    .row.justify-content-center.align-items-center.mb-5     
+      .col-lg-10
+        .tarjeta.color-primario.p-3.mb-5
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/temas/tema1/img11.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h3.mb-1 Anexo 1
+                  p.mb-0 Decreto 770 de 1982 
 
-                    .col-lg-1
-                      a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/Anexo 1_Decreto_770_de_1982.pdf')" target="_blank")
-                        span Descargar
-                        i.fas.fa-file-download
+                .col-sm-auto
+                  a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/Anexo_1_Decreto_770_de_1982.pdf')" target="_blank")
+                    span Descargar
+                    i.fas.fa-file-download                        
       
       .tarjeta.imgpestanas.p-4(titulo="Diplomático")
         .row
@@ -101,7 +101,7 @@
           .col-xl-7
             p En los eventos deportivos las normas de protocolo velan por la armonía de todos los participantes. Dentro de los propósitos están informar y ayudar a los invitados y asistentes al evento, así como dar respuesta y solución a problemas y situaciones que surjan durante el encuentro. Junto con ello, es fundamental enriquecer el desarrollo de la competencia de acuerdo con su objetivo y organización; por último, aplicar las normas, reglas y leyes para facilitar la consecución de los objetivos. 
             p Por otro lado, se busca con el protocolo deportivo agradar a todos los participantes en su conjunto e individualmente, en la medida de lo posible, y ordenar las diferentes actuaciones con flexibilidad, diálogo, negociación, pero aplicando los reglamentos y normas pertinentes. 
-            p Como los eventos deportivos se rigen por normas y reglas, los aspectos protocolarios son diversos según el tipo de deporte; sin embargo, existen normas y reglas de base como son precedencias para inauguraciones, premiaciones y el uso de símbolos como banderas, escudos e himnos.
+            p Como los eventos deportivos se rigen por normas y reglas, los aspectos protocolarios son diversos según el tipo de deporte; sin embargo, existen normas y reglas de base como son: precedencias para inauguraciones, premiaciones y el uso de símbolos como banderas, escudos e himnos.
 
       
       .tarjeta.imgpestanas.p-4(titulo="Militar")
@@ -128,7 +128,7 @@
             img(src='@/assets/curso/temas/tema1/img7.png')
 
           .col-xl-7
-            p Reglas de cortesía u organización aplicadas en actos donde tienen lugar relaciones sociales, las cuales exigen cierta formalidad. Estas reglas han cambiado a raíz de la pandemia de COVID-19 que vivió el planeta, y las consideraciones de cada organizador y evento; sin embargo, es muy importante que se conozcan las normas que se tienen dentro de un evento social, para tener éxito en él. 
+            p Reglas de cortesía u organización aplicadas en actos donde tienen lugar relaciones sociales, las cuales exigen cierta formalidad. Estas reglas han cambiado a raíz de la pandemia de COVID-19 que vivió el planeta y las consideraciones de cada organizador y evento; sin embargo, es muy importante que se conozcan las normas que se tienen dentro de un evento social, para tener éxito en él. 
             p Las normas más comunes dentro del protocolo social, de acuerdo con Coll (2020), son: “ser puntual, vestir acordemente, no interrumpir, ser respetuoso, son algunos ejemplos de protocolo social. El protocolo social, en cierta forma, garantiza que se respetan las normas de convivencia, por ello, se enseña a la sociedad desde la infancia” (párrs. 3-4). 
 
 

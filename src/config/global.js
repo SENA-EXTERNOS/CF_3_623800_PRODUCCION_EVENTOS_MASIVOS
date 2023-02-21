@@ -187,7 +187,7 @@ export default {
       referencia:
         'Servicio Nacional de Aprendizaje [SENA] Formación en Ambientes Virtuales de Aprendizaje [FAVA]. (s. f.). <em>Etiqueta y protocolo</em>. SENA.',
       tipo: 'Documento',
-      descarga: '/downloads/Anexo 2_ Etiqueta y protocolo.pdf',
+      descarga: '/downloads/Anexo_2_ Etiqueta y protocolo.pdf',
     },
     {
       tema: 'Etiqueta y protocolo',
@@ -258,88 +258,88 @@ export default {
   referencias: [
     {
       referencia:
-        'Libro Borges, A. (2013). La innovación en la organización de eventos. <em> Compe. Revista Científica de Comunicación, Protocolo y Eventos </em> (1), pp. 46-60.',
+        'Borges, A. (2013). La innovación en la organización de eventos. Compe. Revista Científica de Comunicación, Protocolo y Eventos (1), pp. 46-60.',
       link: '',
     },
     {
       referencia:
-        'Página web Coll, M. (2020, 13 de noviembre). <em> Tipos de protocolo.</em> Economipedia.com.',
+        'Coll, M. (2020, 13 de noviembre). <i>Tipos de protocolo</i>. Economipedia.com.',
       link: 'https://economipedia.com/definiciones/tipos-de-protocolo.html. ',
     },
     {
       referencia:
-        'Página web Ecodiario.es (2020, agosto 17). <em> Reglas de etiqueta del día a día que todos hemos roto al menos una vez.</em> ElEconomista.es.',
+        'Ecodiario.es (2020, agosto 17). <i>Reglas de etiqueta del día a día que todos hemos roto al menos una vez</i>. ElEconomista.es.',
       link:
         'https://ecodiario.eleconomista.es/viralplus/noticias/10724631/08/20/Reglas-de-etiqueta-del-dia-a-dia-que-todos-hemos-roto-al-menos-una-vez.html.',
     },
     {
       referencia:
-        'Página web Eserp Business & Law School (s. f.). <em> Qué es el protocolo empresarial.</em> Eserp Business & Law School.',
+        'Eserp Business & Law School (s. f.).<i> Qué es el protocolo empresarial</i>. Eserp Business & Law School.',
       link: 'https://es.eserp.com/articulos/protocolo-empresarial/.',
     },
     {
       referencia:
-        'Página web Esneca Business School (2020, 6 de noviembre). <em> Los tipos de protocolos que debes conocer.</em> Esneca.com.',
+        'Esneca Business School (2020, 6 de noviembre). <i>Los tipos de protocolos que debes conocer</i>. Esneca.com.',
       link: 'https://www.esneca.com/blog/tipos-de-protocolo/.',
     },
     {
       referencia:
-        'Página web Euroinnova International Online Education (s. f.). <em> Qué es un protocolo militar.</em>',
+        'Euroinnova International Online Education (s. f.). <i>Qué es un protocolo militar</i>.',
       link: 'https://www.euroinnova.edu.es/que-es-un-protocolo-militar.',
     },
     {
       referencia:
-        'Página web Lanzito, C. (s. f.). <em> Las reglas de etiqueta más importantes. AARP. </em> ',
+        'Lanzito, C. (s. f.). <i>Las reglas de etiqueta más importantes</i>. AARP.',
       link: 'https://bit.ly/3ExJSAI.',
     },
     {
       referencia:
-        'Página web IOE Business School (2018, 7 de noviembre). <em> Conoce los tipos de protocolo.</em> Grupo IOE. ',
+        'IOE Business School (2018, 7 de noviembre). <i>Conoce los tipos de protocolo</i>. Grupo IOE.',
       link: 'https://www.grupoioe.es/conoce-los-tipos-de-protocolo/.',
     },
     {
       referencia:
-        'Libro electrónico Jiménez, M., y Panizo, J. (2017). Eventos y protocolo: la gestión estratégica de actos corporativos e institucionales. Universitat Oberta de Catalunya. Digitalia.',
+        'Jiménez, M., y Panizo, J. (2017). <i>Eventos y protocolo: la gestión estratégica de actos corporativos e institucionales<i>. Universitat Oberta de Catalunya. Digitalia.',
       link: 'https://www-digitaliapublishing-com.bdigital.sena.edu.co/a/47383',
     },
     {
       referencia:
-        'Página web Materia Efímera (2020). <em> El protocolo aplicado a eventos.</em> Materia Efímera.  ',
+        'Materia Efímera (2020). <i>El protocolo aplicado a eventos</i>. Materia Efímera.',
       link:
         'https://materiaefimera.com/sin-categorizar-2/protocolo-en-los-eventos/2020/.',
     },
     {
       referencia:
-        'Libro electrónico Montedeoca, R. (2013). <em> Organización de reuniones y eventos.</em> IC Editorial. ',
+        'Montedeoca, R. (2013). <i>Organización de reuniones y eventos</i>. IC Editorial.',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/44531?page=196',
     },
     {
       referencia:
-        'Página web Nanduca, A. (2021, 20 de junio). <em> Evento formal e informal.</em> Prezi.',
+        'Nanduca, A. (2021, 20 de junio). <i>Evento formal e informal</i>. Prezi.',
       link: 'https://prezi.com/p/sahonilir-1l/eventos-formales-e-informales/.',
     },
     {
       referencia:
-        'Libro electrónico Otero, M. (2009). <em> Protocolo y organización de eventos.</em> Editorial UOC. ',
+        'Otero, M. (2009). <i>Protocolo y organización de eventos</i>. Editorial UOC.',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/56460',
     },
     {
       referencia:
-        'Libro electrónico Patiño, L. (2012). <em>Etiqueta y protocolo: base de la imagen empresarial.</em> Eumed. ',
+        'Patiño, L. (2012). <i>Etiqueta y protocolo: base de la imagen empresarial</i>. Eumed.',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/25122',
     },
     {
       referencia:
-        'Página web Vargas, U. (s. f.). <em>Tipos de eventos empresariales que puedes organizar.</em> Aprende Institute.',
+        'Vargas, U. (s. f.). <i>Tipos de eventos empresariales que puedes organizar</i>. Aprende Institute.',
       link:
         'https://aprende.com/blog/emprendimiento/eventos/tipos-de-eventos-empresariales-que-puedes-organizar/.',
     },
     {
       referencia:
-        'Libro Villanueva, R. (2012). <em>Gestión de protocolo.</em> IC Editorial. ',
+        'Villanueva, R. (2012). <i>Gestión de protocolo</i>. IC Editorial. ',
       link: '',
     },
   ],

@@ -9,7 +9,7 @@
 
     .row.mt-5.justify-content-center
       .col-lg-4.mb-5
-        p #[b Las ceremonias son otro tipo de evento donde es importante tener en cuenta el protocolo y la etiqueta.] Las ceremonias constituyen algunas de las expresiones culturales mediante las cuales se reconoce y expresa lo trascendente del ser en rituales; se establecen lazos simbólicos con personas o deidades o con el entorno natural. Pueden ser oficiales, protocolares, académicas o sociales. Muchas están basadas en tradiciones culturales o buscan hacer de algo cotidiano una ocasión excepcional. Existen ceremonias espirituales que son muy especiales y se convierten en un momento personal y único.
+        p <b>Las ceremonias son otro tipo de evento donde es importante tener en cuenta el protocolo y la etiqueta</b>. Las ceremonias constituyen algunas de las expresiones culturales mediante las cuales se reconoce y expresa lo trascendente del ser en rituales; se establecen lazos simbólicos con personas o deidades o con el entorno natural. Pueden ser oficiales, protocolares, académicas o sociales; muchas están basadas en tradiciones culturales o buscan hacer de algo cotidiano una ocasión excepcional. Existen ceremonias espirituales que son muy especiales y se convierten en un momento personal y único. Las ceremonias por doctrina tienen pautas, en especial cuando se trata de matrimonios, bautizos y funerales. 
       
       .col-lg-4
         figure
@@ -18,7 +18,7 @@
       .col-lg-4.mb-5
         .bloque-texto-b.color-cajon3.p-4
           .bloque-texto-b__texto
-            p Las ceremonias por doctrina tienen pautas, en especial cuando se trata de matrimonios, bautizos y funerales. Es necesario marcar la diferencia entre un ritual, que se puede dar en cuestión de horas y minutos, y una ceremonia, que puede ser de un día. #[b Las ceremonias se establecen como costumbre; son tradiciones que han pasado de generación en generación.] Muchas provienen de otras culturas, pero se han asentado en nuestro entorno por la práctica, la costumbre y la adopción de prácticas extranjeras, mientras otras tienen origen en las creencias de la comunidad.
+            p Es necesario marcar la diferencia entre un ritual, que se puede dar en cuestión de horas y minutos, y una ceremonia, que puede ser de un día. <b>Las ceremonias se establecen como costumbre; son tradiciones que han pasado de generación en generación</b>. Muchas provienen de otras culturas, pero se han asentado en nuestro entorno por la práctica, la costumbre y la adopción de prácticas extranjeras, mientras otras tienen origen en las creencias de la comunidad.
 
       b Dentro de las ceremonias encontramos:
 
@@ -43,8 +43,8 @@
           .col-md-5
             p Exigen mucha formalidad, se ciñen a un programa y una organización, planeación y ejecución muy detallada, donde la precedencia desempeña un papel muy importante, y cada paso del acto tiene un significado. Los actos formales más comunes son académicos, militares, religiosos y gubernamentales. Como ya se ha mencionado, aplican un protocolo y normas de etiqueta de acuerdo con el evento. Los actos formales se aplican en almuerzos, cenas de gala o banquetes, donde es importante tener en cuenta aspectos como:
              
-            p.p-3 <i class="fas fa-check"></i> Servir y retirar los alimentos de la mesa, que tiene que ver con todo el protocolo para servir en la mesa.
-            p.p-3 <i class="fas fa-check"></i> Tiempo en un menú, se debe tener en cuenta el entremés, la ensalada, pasta o crema, plato fuerte y postre.
+            p.p-3 <i class="fas fa-check"></i> Servir y retirar los alimentos de la mesa. Tiene que ver con todo el protocolo para servir en la mesa.
+            p.p-3 <i class="fas fa-check"></i> Tiempo en un menú. Se debe tener en cuenta el entremés, la ensalada, pasta o crema, plato fuerte y postre.
             p.p-3 <i class="fas fa-check"></i> Montaje de mesa formal, de acuerdo con las necesidades del evento. Hay diferentes tipos de montajes, se deben tener en cuenta factores como el número de invitados, la esencia del evento y la dimensión del espacio. Adicionalmente, también son importantes aspectos como la mantelería, centros de mesa, servilletas, cristalería, vajilla y cubertería.
 
             p Los actos formales empresariales que se pueden desarrollar en salones. La ambientación debe ser sobria y agradable. Este tipo de actos incluyen lanzamiento de productos, presentación de una marca, convenio entre empresas, fiestas de fin de año, aniversario de la empresa, congresos, entre otros. 
@@ -69,7 +69,7 @@
     
       .col-lg-8
         .cajon.color-acento-contenido.p-4
-          p #[b En todas las ceremonias siempre hay un anfitrión] que puede estar representado por un país, una organización o una persona. El anfitrión es el encargado y responsable de planear el evento, organizarlo y velar por la armonía y bienestar de todos los participantes; además es quien ‘da la cara’ antes, durante y después de la celebración. Esto exige la aplicación correcta de las normas de protocolo y etiqueta. 
+          p <b>En todas las ceremonias siempre hay un anfitrión</b> que puede estar representado por un país, una organización o una persona. El anfitrión es el encargado y responsable de planear el evento, organizarlo y velar por la armonía y bienestar de todos los participantes; además es quien “da la cara” antes, durante y después de la celebración. Esto exige la aplicación correcta de las normas de protocolo y etiqueta. 
       
     .col-lg-12
       p.mt-5 Este anfitrión tiene unas funciones que pueden verse a continuación y que se abordarán una por una:
@@ -79,7 +79,7 @@
       PasosB.color-acento-contenido
         .row.justify-content-center.align-items-center.my-lg-4(titulo="")
           .col-lg-7.md-6.mb-4.mb-md-0
-            i Decidir todo lo relativo al evento o ceremonia:
+            h5 Decidir todo lo relativo al evento o ceremonia:
             p.mt-4 Esta función es la más relevante, ya que implica que el anfitrión tome decisiones sobre todas las actividades que se van a realizar, desde su planeación hasta su culminación.
 
           .col-lg-4.md-5.mt-3
@@ -88,7 +88,7 @@
               
         .row.justify-content-center.align-items-center.my-lg-4(titulo="")
           .col-lg-7.md-6.mb-4.mb-md-0
-            i Hacer las invitaciones:
+            h5 Hacer las invitaciones:
             p.mt-4 Esto incluye definir el listado de los invitados, el diseño de la invitación, el canal de entrega (físico o digital), y hacerlo con la debida antelación para darle tiempo a los invitados de confirmar su asistencia. 
 
           .col-lg-4.md-5.mt-3
@@ -97,7 +97,7 @@
 
         .row.justify-content-center.align-items-center.my-lg-4(titulo="")
           .col-lg-7.md-6.mb-4.mb-md-0
-            i Recibir a los invitados:
+            h5.fst-italic Recibir a los invitados:
             p.mt-4 Esta es una tarea del anfitrión, pero si el evento es demasiado grande, puede delegar a un grupo de personal capacitado para desarrollar esta labor, sin embargo, es su responsabilidad recibir a los invitados principales o VIP.
 
           .col-lg-4.md-5.mt-3
@@ -106,7 +106,7 @@
 
         .row.justify-content-center.align-items-center.my-lg-4(titulo="")
           .col-lg-7.md-6.mb-4.mb-md-0
-            i Atender:
+          h5.fst-italic Atender:
             p.mt-4 El anfitrión es el encargado de asegurar que todos los invitados se sientan cómodos, satisfechos y con una buena atención.
 
           .col-lg-4.md-5.mt-3
@@ -115,7 +115,7 @@
 
         .row.justify-content-center.align-items-center.my-lg-4(titulo="")
           .col-lg-7.md-6.mb-4.mb-md-0
-            i Despedir:
+            h5 Despedir:
             p.mt-4 Así como dio la bienvenida, el anfitrión es el encargado de despedir a los invitados agradeciendo su asistencia y participación.
             
           .col-lg-4.md-5.mt-3
