@@ -55,7 +55,7 @@
           b El siguiente video amplía el tema sobre la etiqueta, aborda algunos principios de la etiqueta empresarial y los tipos de eventos más comunes en donde se aplican.
     
       .video.mt-5
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/8aQpcKe-nsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       
     
     .row.mt-5.justify-content-center
