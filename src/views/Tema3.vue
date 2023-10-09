@@ -97,7 +97,7 @@
 
         .row.justify-content-center.align-items-center.my-lg-4(titulo="")
           .col-lg-7.md-6.mb-4.mb-md-0
-            h5.fst-italic Recibir a los invitados:
+            h5 Recibir a los invitados:
             p.mt-4 Esta es una tarea del anfitrión, pero si el evento es demasiado grande, puede delegar a un grupo de personal capacitado para desarrollar esta labor, sin embargo, es su responsabilidad recibir a los invitados principales o VIP.
 
           .col-lg-4.md-5.mt-3
@@ -106,8 +106,8 @@
 
         .row.justify-content-center.align-items-center.my-lg-4(titulo="")
           .col-lg-7.md-6.mb-4.mb-md-0
-          h5.fst-italic Atender:
-            p.mt-4 El anfitrión es el encargado de asegurar que todos los invitados se sientan cómodos, satisfechos y con una buena atención.
+            h5 Atender:
+              p.mt-4 El anfitrión es el encargado de asegurar que todos los invitados se sientan cómodos, satisfechos y con una buena atención.
 
           .col-lg-4.md-5.mt-3
             figure
